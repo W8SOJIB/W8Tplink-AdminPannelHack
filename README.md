@@ -21,6 +21,7 @@ pip install pycryptodome
 git clone https://github.com/W8SOJIB/W8Tplink-AdminPannelHack
 
 ls
+chmod +x w8tpconf_bin_xml.py
 
 cd w8tpconf_bin_xml
 
