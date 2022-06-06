@@ -18,16 +18,16 @@ pkg install python -y
 
 pip install pycryptodome
 
-git clone https://github.com/sta-c0000/tpconf_bin_xml
+git clone https://github.com/W8SOJIB/W8Tplink-AdminPannelHack
 
 ls
 
-cd tpconf_bin_xml
+cd w8tpconf_bin_xml
 
 Termux Storage
 (Permission Allow)
 
-python tpconf_bin_xml.py /storage/emulated/0/conf.bin 1.xml 
+python w8tpconf_bin_xml.py /storage/emulated/0/conf.bin 1.xml 
 
 ls
 
