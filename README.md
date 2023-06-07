@@ -16,7 +16,7 @@ All Packages Install On Termux In One Click
 Clone this repository
 git clone https://github.com/W8SOJIB/W8TermuxPkgInstaller
 cd W8TermuxPkgInstaller
-./install.sh
+bash install.sh
 
 ```
 
@@ -29,6 +29,8 @@ pkg install git -y
 pkg install python -y
 
 pip install pycryptodome
+
+pip install pycryptodomex 
 
 git clone https://github.com/W8SOJIB/W8Tplink-AdminPannelHack
 
